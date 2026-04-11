@@ -105,85 +105,6 @@ I build systems software and security tools. Currently exploring OS internals, c
 
 ---
 
-## 🔧 Technology Stack Distribution
-
-```mermaid
-graph LR
-    A["📦 Technology Stack"] 
-    
-    A --> B["Systems Programming"]
-    B --> B1["C++ 28%"]
-    B --> B2["Assembly<br/>MIPS/ARM"]
-    B --> B3["Embedded C"]
-    
-    A --> C["Web & Backend"]
-    C --> C1["JavaScript<br/>21%"]
-    C --> C2["Python 18%"]
-    C --> C3["React"]
-    C --> C4["Flask"]
-    
-    A --> D["Security & Theory"]
-    D --> D1["Cryptography"]
-    D --> D2["Number Theory"]
-    D --> D3["ZK Proofs"]
-    
-    A --> E["Infrastructure"]
-    E --> E1["Linux/POSIX"]
-    E --> E2["Git"]
-    E --> E3["Supabase/OAuth"]
-    
-    style B1 fill:#00599C,stroke:#79c0ff,stroke-width:2px,color:#fff
-    style C1 fill:#F7DF1E,stroke:#ffd700,stroke-width:2px,color:#000
-    style C2 fill:#3776AB,stroke:#4b8bbe,stroke-width:2px,color:#fff
-```
-
----
-
-## 🏆 Key Achievements
-
-```mermaid
-timeline
-    title Career Milestones
-    2024 : Admitted RVCE via Lateral Entry from Diploma
-        : Started OS internals exploration
-        : Built first security project
-    
-    2025 : Co-authored IEEE Access paper
-        : Shipped ShamirSecurity (5M+ security model)
-        : Developed OS EL Visualizer
-        : Built DSA Algorithm Visualizer
-        : Targeting Samsung R&D role
-    
-    2026 : 6+ Projects shipped
-        : Active research contributor
-        : Building Entropy Prime SaaS
-        : Security + Systems focus deepening
-```
-
----
-
-## ⚡ Tech Stack by Repository Contribution
-
-```mermaid
-graph LR
-    A["📦 16 Repositories"]
-    
-    A -->|"5 Repos"| C["🔤 C Programming<br/>DSA-C, OS-C-PROGRAMS<br/>MyGamesRepo2006<br/>Diploma, DSC-CPP"]
-    
-    A -->|"4 Repos"| B["🐍 Python<br/>ENTROPY-PRIME<br/>DAA-4-SEM-EL<br/>diploma-project<br/>frameworks"]
-    
-    A -->|"3 Repos"| D["🌐 Web/JS<br/>PORTFOLIO<br/>ShamirSecurity<br/>DSA-EL-"]
-    
-    A -->|"4 Repos"| E["📚 Study/Archive<br/>rprogramming<br/>C-programming<br/>Calculator<br/>utilities"]
-    
-    style C fill:#A8E6CF,stroke:#56ab91,stroke-width:2px,color:#333
-    style B fill:#FFD3B6,stroke:#ff9671,stroke-width:2px,color:#333
-    style D fill:#FFAAA5,stroke:#ff6b6b,stroke-width:2px,color:#fff
-    style E fill:#AA96DA,stroke:#5f3dc4,stroke-width:2px,color:#fff
-```
-
----
-
 ## 🏆 Top Starred Projects
 
 ```
@@ -230,26 +151,6 @@ timeline
         : ENTROPY-PRIME MVP phase
     2026 : Internship search + system design focus
 ```
-
----
-
-## 📈 GitHub Contributions
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Parik-2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parik-2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parik-2006&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parik-2006&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
-</div>
 
 ---
 
@@ -303,15 +204,6 @@ graph TB
 
 ---
 
-## � Contribution Chart
-
-<div align="center">
-
-<img src="contribution-chart.svg" alt="Repository Contribution Breakdown" width="800"/>
-
-</div>
-
----
 
 ## 🌟 Highlighted Achievements
 
