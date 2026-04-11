@@ -54,7 +54,6 @@ I build systems software and security tools. Currently exploring OS internals, c
 
 | Project | Description | Tech | Status |
 |:--------|:------------|:-----|:-------|
-| 🌐 **[PORTFOLIO](https://github.com/Parik-2006/PORTFOLIO)** | Developer portfolio with 3D effects, smooth animations, category-based filtering | Vite, Tailwind, Three.js | ✅ Live |
 | 🔐 **[ShamirSecurity](https://github.com/Parik-2006/shamirsecurity)** | Distributed password management system | JavaScript | ⭐ 2 Stars |
 | 🚀 **[ENTROPY-PRIME](https://github.com/Parik-2006/ENTROPY-PRIME)** | SaaS platform in development | Python, Flask | 🚧 Building |
 | 🧮 **[OS-EL-3-SEM](https://github.com/Parik-2006/OS-EL-3-SEM)** | OS internals and kernel exploration visualizer | HTML, C, POSIX | ⭐ 3 Stars |
@@ -62,10 +61,7 @@ I build systems software and security tools. Currently exploring OS internals, c
 | 📈 **[DAA-4-SEM-EL](https://github.com/Parik-2006/DAA-4-SEM-EL)** | Design & Analysis of Algorithms coursework | Python | 📚 Academic |
 | 🎓 **[diploma-project](https://github.com/Parik-2006/diploma-project)** | Diploma-level systems project | Python | ✅ Complete |
 | 🎮 **[MyGamesRepo2006](https://github.com/Parik-2006/MyGamesRepo2006)** | Game development exploring memory management & real-time input | C | 🎯 Archive |
-| 💾 **[DSA-C](https://github.com/Parik-2006/DSA-C)** | Data Structures & Algorithms implementations | C | 📚 Study |
-| 🔧 **[OS-C-PROGRAMS](https://github.com/Parik-2006/OS-C-PROGRAMS)** | Operating System fundamentals and system calls | C | 📚 Study |
-| 📖 **[C-programming](https://github.com/Parik-2006/C-programming)** | Core C programming fundamentals & concepts | C | 📚 Foundation |
-| 📊 **[DSC-CPP](https://github.com/Parik-2006/DSC-CPP)** | Data Structures & Algorithms in C++ | C++ | 🔄 1 Fork |
+
 
 ---
 
