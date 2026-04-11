@@ -17,7 +17,7 @@
 
 > *"Turning complex logic into efficient code — from bare-metal to distributed systems."*
 
-**5+ Projects | 2 Years CS | Security + Systems Focus | IEEE Access Researcher**
+**16 Repositories | CSE Lateral Entry | RVCE '28 | Security + Systems Focus**
 
 </div>
 
@@ -25,118 +25,61 @@
 
 ## 🧠 About Me
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  Parikshith B Bilchode                                  │
-│  B.E. CSE (Lateral Entry) · RVCE Bengaluru · Batch '28  │
-│                                                         │
-│  🔬  Co-authoring IEEE Access paper on Multi-Cloud Vault │
-│  🔐  Building ShamirSecurity — distributed PWD manager  │
-│  ⚙️   Diving deep into OS internals & scheduling algos  │
-│  🎯  Targeting Samsung R&D + systems/security roles     │
-│                                                         │
-│  Background: Diploma → CSE Lateral Entry → RVCE         │
-│  Edge: Hands-on embedded roots before CS theory         │
-└─────────────────────────────────────────────────────────┘
-```
+**Parikshith B Bilchode** | CSE Student · RVCE Bengaluru · Batch '28  
+*Diploma → Lateral Entry → RVCE*
+
+I build systems software and security tools. Currently exploring OS internals, cryptographic protocols, and full-stack development. When I'm not coding, I'm contributing to open-source or talking about low-level systems design.
+
+📍 **Location:** Bengaluru, India  
+🎓 **Education:** B.E. CSE (Lateral Entry from Diploma) | RVCE '28  
+🏢 **Currently:** Building ENTROPY-PRIME SaaS | Contributing to 3+ active repos  
+🎯 **Looking For:** Internships in systems engineering & security roles  
 
 ---
 
-## ⚡ Tech Stack & Expertise
+## ⚡ My Skillset
 
-```mermaid
-mindmap
-  root((Parikshith))
-    Systems
-      C++
-      Assembly MIPS/ARM
-      Embedded C
-      Keil µVision
-      OS Internals
-    Security & Crypto
-      Shamir Secret Sharing
-      AES-256
-      ZK Proofs
-      OAuth 2.0 / TOTP
-      Threshold Cryptography
-    Web & Backend
-      React
-      Flask
-      JavaScript
-      Python
-      Supabase
-    Theory
-      Cryptography
-      Number Theory
-      DSA / Tries
-      Discrete Math
-      Linear Algebra
-```
+| Category | Skills |
+|:---------|:--------|
+| 💻 **Languages** | C, Python, JavaScript, C++, HTML5, CSS3 |
+| 🖥️ **Systems** | Linux, POSIX APIs, OS concepts, Memory management |
+| 🔐 **Security** | Cryptography basics, Authentication protocols, Distributed systems |
+| 🌐 **Web** | React, Flask, Vite, Tailwind, Three.js, Responsive design |
+| 🛠️ **Tools** | Git, GitHub, VS Code, Linux CLI, POSIX development |
+| 📚 **Theory** | Data Structures (DSA), Algorithms, Number theory, OS design |
 
 ---
 
-## 📂 Featured Projects
+## 📂 My Projects
 
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:-------|
-| 🔐 **[ShamirSecurity](https://shamirsecurity-1-aclh.onrender.com)** | Distributed password vault — SSS + AES-256 + Google OAuth + TOTP | React, Flask, Python | 🟢 Active |
-| 📄 **Multi-Cloud Vault** | IEEE Access paper on threshold cryptography across cloud providers | Research, Cryptography | 📝 In Review |
-| 🧮 **[OS EL — Kernel Explorations](https://osel2025.vercel.app/)** | OS internals: scheduling, memory, syscalls | C, POSIX | 🟢 Live |
-| 📊 **[DSA Algorithm Visualizer](https://dsa-el-2.onrender.com/)** | Interactive viz of sorting, graphs, DP | JavaScript | 🟢 Live |
-| 🔮 **Zero-Knowledge Auth** | ZK-proof based auth flows — privacy without secrets | ZK Proofs, Number Theory | 🔬 Research |
-| 🤖 **Entropy Prime** | SaaS project — currently in development | TBD | 🚧 Building |
-
----
-
-## 📊 Project Impact & Contribution Breakdown
-
-```mermaid
-graph TB
-    subgraph "Core Technologies"
-        SYS["⚙️ Systems & Low-Level<br/>C++ / Assembly / OS"]
-        SEC["🔐 Security & Crypto<br/>SSS / AES / ZK Proofs"]
-        WEB["🌐 Web & Backend<br/>React / Flask / Python"]
-    end
-    
-    subgraph "Active Projects"
-        SS["ShamirSecurity"]
-        OS["OS EL Visualizer"]
-        DSA["DSA Algorithm Viz"]
-    end
-    
-    subgraph "Research"
-        IEEE["IEEE Access Paper"]
-        ZK["Zero-Knowledge Auth"]
-    end
-    
-    SYS --> OS
-    SEC --> SS
-    SEC --> IEEE
-    SEC --> ZK
-    WEB --> SS
-    WEB --> DSA
-    SYS --> OS
-    
-    style SYS fill:#1f6feb,stroke:#79c0ff,stroke-width:2px,color:#c9d1d9
-    style SEC fill:#da3633,stroke:#f85149,stroke-width:2px,color:#c9d1d9
-    style WEB fill:#238636,stroke:#3fb950,stroke-width:2px,color:#c9d1d9
-```
+| Project | Description | Tech | Status |
+|:--------|:------------|:-----|:-------|
+| 🌐 **[PORTFOLIO](https://github.com/Parik-2006/PORTFOLIO)** | Developer portfolio with 3D effects, smooth animations, category-based filtering | Vite, Tailwind, Three.js | ✅ Live |
+| 🔐 **[ShamirSecurity](https://github.com/Parik-2006/shamirsecurity)** | Distributed password management system | JavaScript | ⭐ 2 Stars |
+| 🚀 **[ENTROPY-PRIME](https://github.com/Parik-2006/ENTROPY-PRIME)** | SaaS platform in development | Python, Flask | 🚧 Building |
+| 🧮 **[OS-EL-3-SEM](https://github.com/Parik-2006/OS-EL-3-SEM)** | OS internals and kernel exploration visualizer | HTML, C, POSIX | ⭐ 3 Stars |
+| 📊 **[DSA-EL-](https://github.com/Parik-2006/DSA-EL-)** | Algorithm visualization and DSA implementation | HTML, JavaScript | ⭐ 1 Star |
+| 📈 **[DAA-4-SEM-EL](https://github.com/Parik-2006/DAA-4-SEM-EL)** | Design & Analysis of Algorithms coursework | Python | 📚 Academic |
+| 🎓 **[diploma-project](https://github.com/Parik-2006/diploma-project)** | Diploma-level systems project | Python | ✅ Complete |
+| 🎮 **[MyGamesRepo2006](https://github.com/Parik-2006/MyGamesRepo2006)** | Game development exploring memory management & real-time input | C | 🎯 Archive |
+| 💾 **[DSA-C](https://github.com/Parik-2006/DSA-C)** | Data Structures & Algorithms implementations | C | 📚 Study |
+| 🔧 **[OS-C-PROGRAMS](https://github.com/Parik-2006/OS-C-PROGRAMS)** | Operating System fundamentals and system calls | C | 📚 Study |
+| 📖 **[C-programming](https://github.com/Parik-2006/C-programming)** | Core C programming fundamentals & concepts | C | 📚 Foundation |
+| 📊 **[DSC-CPP](https://github.com/Parik-2006/DSC-CPP)** | Data Structures & Algorithms in C++ | C++ | 🔄 1 Fork |
 
 ---
 
-## 🎯 Contribution Statistics
+## 📊 Repository Statistics
 
 <div align="center">
 
-```mermaid
-pie title "Contribution Focus Areas"
-    "Systems & Embedded" : 35
-    "Security & Cryptography" : 30
-    "Web Development" : 20
-    "Research & Theory" : 15
-```
-
-<img src="contribution-chart.svg" alt="Contribution Breakdown" width="500"/>
+| Metric | Value |
+|:-------|:------|
+| 🏗️ Total Repositories | 16 |
+| ⭐ Total Stars | 7 |
+| 🔀 Forks | 1 |
+| 💾 Primary Languages | C, Python, JavaScript, C++ |
+| 🎯 Active Projects | 3 (PORTFOLIO, ENTROPY-PRIME, ShamirSecurity) |
 
 </div>
 
@@ -219,139 +162,202 @@ timeline
 
 ---
 
-## 🛠️ Tools & Languages
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 💡 Project Contributions & Impact Matrix
+## ⚡ Tech Stack by Repository Contribution
 
 ```mermaid
-graph TB
-    subgraph "Security Projects🔐"
-        SS["<b>ShamirSecurity</b><br/>Distributed Vault<br/>━━━<br/>✅ Live & Active<br/>Tech: React, Flask, Python<br/>Impact: SSS Implementation"]
-        ZK["<b>Zero-Knowledge Auth</b><br/>Privacy Layer<br/>━━━<br/>🔬 Research Phase<br/>Tech: ZK Proofs, Number Theory<br/>Impact: Privacy Model"]
-    end
+graph LR
+    A["📦 16 Repositories"]
     
-    subgraph "Systems Projects⚙️"
-        OS["<b>OS EL Visualizer</b><br/>Kernel Deep Dive<br/>━━━<br/>✅ Live & Active<br/>Tech: C, POSIX<br/>Impact: Teaching Resource"]
-        EP["<b>Entropy Prime</b><br/>SaaS Platform<br/>━━━<br/>🚧 In Development<br/>Tech: Full Stack<br/>Impact: Production System"]
-    end
+    A -->|"5 Repos"| C["🔤 C Programming<br/>DSA-C, OS-C-PROGRAMS<br/>MyGamesRepo2006<br/>Diploma, DSC-CPP"]
     
-    subgraph "Algorithms & Research📊"
-        DSA["<b>DSA Visualizer</b><br/>Algorithm Viz<br/>━━━<br/>✅ Live & Active<br/>Tech: JavaScript<br/>Impact: Learning Tool"]
-        IEEE["<b>Multi-Cloud Vault</b><br/>Threshold Crypto<br/>━━━<br/>📝 IEEE Access Paper<br/>Tech: Cryptography<br/>Impact: Academic Research"]
-    end
+    A -->|"4 Repos"| B["🐍 Python<br/>ENTROPY-PRIME<br/>DAA-4-SEM-EL<br/>diploma-project<br/>frameworks"]
     
-    style SS fill:#1f6feb,stroke:#79c0ff,stroke-width:2px,color:#fff
-    style ZK fill:#1f6feb,stroke:#79c0ff,stroke-width:2px,color:#fff
-    style OS fill:#238636,stroke:#3fb950,stroke-width:2px,color:#fff
-    style EP fill:#238636,stroke:#3fb950,stroke-width:2px,color:#fff
-    style DSA fill:#9e6a03,stroke:#d3a500,stroke-width:2px,color:#fff
-    style IEEE fill:#9e6a03,stroke:#d3a500,stroke-width:2px,color:#fff
+    A -->|"3 Repos"| D["🌐 Web/JS<br/>PORTFOLIO<br/>ShamirSecurity<br/>DSA-EL-"]
+    
+    A -->|"4 Repos"| E["📚 Study/Archive<br/>rprogramming<br/>C-programming<br/>Calculator<br/>utilities"]
+    
+    style C fill:#A8E6CF,stroke:#56ab91,stroke-width:2px,color:#333
+    style B fill:#FFD3B6,stroke:#ff9671,stroke-width:2px,color:#333
+    style D fill:#FFAAA5,stroke:#ff6b6b,stroke-width:2px,color:#fff
+    style E fill:#AA96DA,stroke:#5f3dc4,stroke-width:2px,color:#fff
 ```
 
 ---
 
-## 📋 Contribution Summary
+## 🏆 Top Starred Projects
 
-| Category | Coverage | Examples |
-|:---------|:---------|:---------|
-| **Security & Cryptography** | 30% | Shamir Secret Sharing, AES-256, OAuth 2.0, TOTP, ZK Proofs |
-| **Systems & Embedded** | 35% | OS internals, scheduling algorithms, memory management, POSIX |
-| **Web Development** | 20% | React frontends, Flask backends, Supabase integration, responsive design |
-| **Research & Theory** | 15% | IEEE papers, number theory, cryptographic protocols, distributed systems |
+```
+🌟 OS-EL-3-SEM .............. ⭐⭐⭐ (3 stars)
+    → Operating System internals & kernel visualization
+    
+🌟 ShamirSecurity ........... ⭐⭐ (2 stars)
+    → Distributed password management system
+    
+🌟 DSA-EL- ................. ⭐ (1 star)
+    → Algorithm visualization & DSA implementations
+```
+
+---
+
+## 📉 Language Distribution
+
+```mermaid
+pie title "Repository Languages"
+    "C" : 30
+    "Python" : 25
+    "JavaScript" : 20
+    "C++" : 10
+    "HTML" : 8
+    "Other" : 7
+```
 
 ---
 
 ## 🎯 Current Focus
 
 ```mermaid
-gantt
-    title 2025-2026 Growth Roadmap
-    dateFormat  YYYY-MM
-    axisFormat %b '%y
-
-    section Research
-    IEEE Access Paper          :active, 2025-01, 2025-06
-    ZK Auth Research           :2025-05, 2025-09
-    Multi-Cloud Security       :2025-08, 2025-12
-
-    section Development
-    ShamirSecurity v2          :active, 2025-03, 2025-07
-    Entropy Prime MVP          :2025-05, 2025-09
-    OS Kernel Module           :2025-04, 2025-08
-
-    section Career
-    Samsung R&D Prep           :active, 2025-04, 2025-07
-    Internship Hunt            :2025-06, 2025-10
-    System Engineer Role       :2025-10, 2026-12
+timeline
+    title Repository Development Timeline
+    2025-01 : Started ENTROPY-PRIME SaaS
+        : Contributor: OS-EL-3-SEM active
+    2025-02 : Building PORTFOLIO website
+        : 3D effects & animations
+    2025-03 : ShamirSecurity enhancements
+        : DSA visualizer improvements
+    2025-04 : Algorithm coursework (DAA-4-SEM-EL)
+        : Interview prep (LeetCode)
+    2025-05 : PORTFOLIO v1 complete
+        : ENTROPY-PRIME MVP phase
+    2026 : Internship search + system design focus
 ```
 
 ---
 
-## 🚀 Building Toward
+## 📈 GitHub Contributions
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Parik-2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parik-2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parik-2006&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parik-2006&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=333)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 💡 What I'm Learning
 
 ```mermaid
 graph TB
-    GOAL["🎯 Long-term Vision"]
+    A["📌 Focus Areas"]
     
-    GOAL --> CORE["Core Expertise Areas"]
-    CORE --> SEC["🔐 Cryptographic Systems"]
-    CORE --> SYS["⚙️ OS & Low-Level"]
-    CORE --> DIST["🌐 Distributed Systems"]
+    A --> B["💾 Low-Level Systems"]
+    B --> B1["OS Internals"]
+    B --> B2["Memory Management"]
+    B --> B3["System Calls & Kernels"]
     
-    GOAL --> IMPACT["Real-World Impact"]
-    IMPACT --> RES["📚 Research Contributions"]
-    IMPACT --> PROD["🚀 Production Systems"]
-    IMPACT --> EDU["📖 Educational Resources"]
+    A --> C["🔐 Security"]
+    C --> C1["Cryptography"]
+    C --> C2["Distributed Systems"]
+    C --> C3["Authentication Protocols"]
     
-    SEC --> SAM["Samsung R&D"]
-    SYS --> SAM
-    DIST --> SAM
+    A --> D["🚀 Web Development"]
+    D --> D1["Full Stack (Python/JS)"]
+    D --> D2["3D Graphics (Three.js)"]
+    D --> D3["Performance Optimization"]
     
-    style GOAL fill:#1f6feb,stroke:#79c0ff,stroke-width:3px,color:#fff
-    style SEC fill:#da3633,stroke:#f85149,stroke-width:2px,color:#fff
-    style SYS fill:#238636,stroke:#3fb950,stroke-width:2px,color:#fff
-    style DIST fill:#9e6a03,stroke:#d3a500,stroke-width:2px,color:#fff
-    style SAM fill:#1f6feb,stroke:#79c0ff,stroke-width:2px,color:#fff
+    style B1 fill:#238636,stroke:#3fb950,stroke-width:2px,color:#fff
+    style B2 fill:#238636,stroke:#3fb950,stroke-width:2px,color:#fff
+    style B3 fill:#238636,stroke:#3fb950,stroke-width:2px,color:#fff
+    style C1 fill:#da3633,stroke:#f85149,stroke-width:2px,color:#fff
+    style C2 fill:#da3633,stroke:#f85149,stroke-width:2px,color:#fff
+    style C3 fill:#da3633,stroke:#f85149,stroke-width:2px,color:#fff
+```
+
+---
+
+## � Contribution Chart
+
+<div align="center">
+
+<img src="contribution-chart.svg" alt="Repository Contribution Breakdown" width="800"/>
+
+</div>
+
+---
+
+## 🌟 Highlighted Achievements
+
+```
+🔧 PORTFOLIO Website
+   ├─ Vite + Tailwind + Three.js
+   ├─ Smooth 3D animations & transitions
+   └─ Live: devportfolio-livid-three.vercel.app
+
+💻 OS-EL-3-SEM (3 ⭐)
+   ├─ Operating System visualization
+   ├─ Educational resource for kernel concepts
+   └─ 3 stars on GitHub
+
+🔐 ShamirSecurity (2 ⭐)
+   ├─ Distributed password management
+   ├─ Full-stack JavaScript implementation
+   └─ 2 stars on GitHub
+
+📊 DSA-EL- (1 ⭐)
+   ├─ Algorithm visualization tool
+   ├─ Interactive learning resource
+   └─ 1 star on GitHub
 ```
 
 ---
 
 ## 📞 Let's Connect
 
-```
-   Interested in:
-   ✅ Research collaborations (security, distributed systems)
-   ✅ Internships (systems, security, embedded firmware)
-   ✅ Technical discussions (OS design, cryptography, optimization)
-   ✅ Building cool stuff together
-```
-
 <div align="center">
 
-**[📧 Email](mailto:raptorparik2006@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/parikshithbb) · [🌐 Portfolio](https://devportfolio-livid-three.vercel.app/) · [💻 GitHub](https://github.com/Parik-2006)**
-
-**RVCE '28 · Bengaluru, India**
+**Open to:** 
+- 🤝 Collaborations on interesting projects
+- 💼 Internships & full-time opportunities  
+- 📚 Technical discussions on systems & security
+- 🚀 Building cool stuff together
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Parik-2006&color=58a6ff&style=flat-square&label=Views" alt="Profile Views"/>
+**[📧 Email](mailto:raptorparik2006@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/parikshithbb) · [🌐 Portfolio](https://devportfolio-livid-three.vercel.app/) · [💻 GitHub](https://github.com/Parik-2006) · [📱 Instagram](https://instagram.com/parik_2006)**
+
+<br/>
+
+**RVCE '28 · Bengaluru, India · Diploma → CSE Lateral Entry**
+
+<img src="https://komarev.com/ghpvc/?username=Parik-2006&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
@@ -359,6 +365,6 @@ graph TB
 
 <div align="center">
 
-**Last Updated:** April 2025 | *Actively shipping, constantly learning, forever building.*
+**Built with 🔥 | Last Updated: April 2026**
 
 </div>
