@@ -133,10 +133,8 @@ I build systems software and security tools. Currently exploring OS internals, c
 
 **RVCE '28 · Bengaluru, India · Diploma → CSE Lateral Entry**
 <br/>
+
 <img src="https://komarev.com/ghpvc/?username=Parik-2006&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
 <br/>
-
 **Built with 🔥 | Last Updated: April 2026**
-
 </div>
