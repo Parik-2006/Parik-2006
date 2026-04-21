@@ -62,7 +62,6 @@ I build systems software and security tools. Currently exploring OS internals, c
 | 🎓 **[diploma-project](https://github.com/Parik-2006/diploma-project)** | Diploma-level systems project | Python | ✅ Complete |
 | 🎮 **[MyGamesRepo2006](https://github.com/Parik-2006/MyGamesRepo2006)** | Game development exploring memory management & real-time input | C | 🎯 Archive |
 
-
 ---
 
 ## 📊 Repository Statistics
@@ -101,7 +100,6 @@ I build systems software and security tools. Currently exploring OS internals, c
 
 ---
 
-
 ## 🛠️ Languages & Tools
 
 <div align="center">
@@ -116,6 +114,8 @@ I build systems software and security tools. Currently exploring OS internals, c
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
