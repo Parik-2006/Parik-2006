@@ -136,35 +136,6 @@ I build systems software and security tools. Currently exploring OS internals, c
 
 ---
 
-
-## 🌟 Highlighted Achievements
-
-```
-🔧 PORTFOLIO Website
-   ├─ Vite + Tailwind + Three.js
-   ├─ Smooth 3D animations & transitions
-   └─ Live: devportfolio-livid-three.vercel.app
-
-💻 OS-EL-3-SEM (3 ⭐)
-   ├─ Operating System visualization
-   ├─ Educational resource for kernel concepts
-   └─ 3 stars on GitHub
-
-🔐 ShamirSecurity (2 ⭐)
-   ├─ Distributed password management
-   ├─ Full-stack JavaScript implementation
-   └─ 2 stars on GitHub
-
-📊 DSA-EL- (1 ⭐)
-   ├─ Algorithm visualization tool
-   ├─ Interactive learning resource
-   └─ 1 star on GitHub
-```
-
----
-
-## 📞 Let's Connect
-
 <div align="center">
 
 **Open to:** 
