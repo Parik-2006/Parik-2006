@@ -116,39 +116,6 @@ I build systems software and security tools. Currently exploring OS internals, c
 
 ---
 
-## 📉 Language Distribution
-
-```mermaid
-pie title "Repository Languages"
-    "C" : 30
-    "Python" : 25
-    "JavaScript" : 20
-    "C++" : 10
-    "HTML" : 8
-    "Other" : 7
-```
-
----
-
-## 🎯 Current Focus
-
-```mermaid
-timeline
-    title Repository Development Timeline
-    2025-01 : Started ENTROPY-PRIME SaaS
-        : Contributor: OS-EL-3-SEM active
-    2025-02 : Building PORTFOLIO website
-        : 3D effects & animations
-    2025-03 : ShamirSecurity enhancements
-        : DSA visualizer improvements
-    2025-04 : Algorithm coursework (DAA-4-SEM-EL)
-        : Interview prep (LeetCode)
-    2025-05 : PORTFOLIO v1 complete
-        : ENTROPY-PRIME MVP phase
-    2026 : Internship search + system design focus
-```
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -166,37 +133,6 @@ timeline
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
-
----
-
-## 💡 What I'm Learning
-
-```mermaid
-graph TB
-    A["📌 Focus Areas"]
-    
-    A --> B["💾 Low-Level Systems"]
-    B --> B1["OS Internals"]
-    B --> B2["Memory Management"]
-    B --> B3["System Calls & Kernels"]
-    
-    A --> C["🔐 Security"]
-    C --> C1["Cryptography"]
-    C --> C2["Distributed Systems"]
-    C --> C3["Authentication Protocols"]
-    
-    A --> D["🚀 Web Development"]
-    D --> D1["Full Stack (Python/JS)"]
-    D --> D2["3D Graphics (Three.js)"]
-    D --> D3["Performance Optimization"]
-    
-    style B1 fill:#238636,stroke:#3fb950,stroke-width:2px,color:#fff
-    style B2 fill:#238636,stroke:#3fb950,stroke-width:2px,color:#fff
-    style B3 fill:#238636,stroke:#3fb950,stroke-width:2px,color:#fff
-    style C1 fill:#da3633,stroke:#f85149,stroke-width:2px,color:#fff
-    style C2 fill:#da3633,stroke:#f85149,stroke-width:2px,color:#fff
-    style C3 fill:#da3633,stroke:#f85149,stroke-width:2px,color:#fff
-```
 
 ---
 
