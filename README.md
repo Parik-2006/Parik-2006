@@ -121,7 +121,6 @@ I build systems software and security tools. Currently exploring OS internals, c
 
 ---
 
-<div align="center">
 
 **Open to:** 
 - 🤝 Collaborations on interesting projects
@@ -130,7 +129,7 @@ I build systems software and security tools. Currently exploring OS internals, c
 - 🚀 Building cool stuff together
 
 <br/>
-
+<div align="center">
 **[📧 Email](mailto:raptorparik2006@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/parikshithbb) · [🌐 Portfolio](https://devportfolio-livid-three.vercel.app/) · [💻 GitHub](https://github.com/Parik-2006) · [📱 Instagram](https://instagram.com/parik_2006)**
 
 <br/>
