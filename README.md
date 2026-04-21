@@ -101,21 +101,6 @@ I build systems software and security tools. Currently exploring OS internals, c
 
 ---
 
-## 🏆 Top Starred Projects
-
-```
-🌟 OS-EL-3-SEM .............. ⭐⭐⭐ (3 stars)
-    → Operating System internals & kernel visualization
-    
-🌟 ShamirSecurity ........... ⭐⭐ (2 stars)
-    → Distributed password management system
-    
-🌟 DSA-EL- ................. ⭐ (1 star)
-    → Algorithm visualization & DSA implementations
-```
-
----
-
 
 ## 🛠️ Languages & Tools
 
