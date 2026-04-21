@@ -117,10 +117,7 @@ I build systems software and security tools. Currently exploring OS internals, c
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</div>
-
 ---
-
 
 **Open to:** 
 - 🤝 Collaborations on interesting projects
@@ -129,8 +126,12 @@ I build systems software and security tools. Currently exploring OS internals, c
 - 🚀 Building cool stuff together
 
 <br/>
-<div align="center">
+
+<p align="center">
+
 **[📧 Email](mailto:raptorparik2006@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/parikshithbb) · [🌐 Portfolio](https://devportfolio-livid-three.vercel.app/) · [💻 GitHub](https://github.com/Parik-2006) · [📱 Instagram](https://instagram.com/parik_2006)**
+
+</p>
 
 <br/>
 
