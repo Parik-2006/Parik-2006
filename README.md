@@ -124,19 +124,15 @@ I build systems software and security tools. Currently exploring OS internals, c
 - 💼 Internships & full-time opportunities  
 - 📚 Technical discussions on systems & security
 - 🚀 Building cool stuff together
-
 <br/>
 
 <div align="center">
 
 **[📧 Email](mailto:raptorparik2006@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/parikshithbb) · [🌐 Portfolio](https://devportfolio-livid-three.vercel.app/) · [💻 GitHub](https://github.com/Parik-2006) · [📱 Instagram](https://instagram.com/parik_2006)**
-
 <br/>
 
 **RVCE '28 · Bengaluru, India · Diploma → CSE Lateral Entry**
-
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=Parik-2006&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 <br/>
