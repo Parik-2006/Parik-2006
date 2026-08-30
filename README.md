@@ -90,16 +90,6 @@ When I'm not building projects, I'm exploring low-level systems, solving algorit
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Parik-2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false" height="165" alt="GitHub Stats"/>
-
-&nbsp;&nbsp;
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parik-2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=false" height="165" alt="Top Languages"/>
-
-<br/><br/>
-
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com/?user=Parik-2006&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&starting_year=2024" alt="GitHub Contribution Streak"/>
 
@@ -107,11 +97,6 @@ When I'm not building projects, I'm exploring low-level systems, solving algorit
 
 <!-- Contribution / Activity Overview -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parik-2006&theme=github_dark" alt="GitHub Contribution Activity"/>
-
-<br/><br/>
-
-<!-- Detailed Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parik-2006&theme=tokyo-night&hide_border=true&area=true&custom_title=Parikshith's%20GitHub%20Activity" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -159,39 +144,6 @@ The live contribution/activity cards above provide the README equivalent.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Engineering Focus
-
-<div align="center">
-
-```text
-SYSTEMS
-   │
-   ├── Operating Systems
-   ├── CPU Scheduling
-   ├── POSIX / Linux
-   └── Embedded Systems
-        │
-        ▼
-SECURITY
-   │
-   ├── Cryptography
-   ├── Secure Authentication
-   ├── Secure OTA
-   └── Malware / URL Detection
-        │
-        ▼
-INTELLIGENT SOFTWARE
-   │
-   ├── Machine Learning
-   ├── AI-assisted Applications
-   ├── Algorithms
-   └── Full-Stack Engineering
-```
 
 </div>
 
