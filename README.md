@@ -59,13 +59,13 @@ When I'm not building projects, I'm exploring low-level systems, solving algorit
 
 | Project | Description | Tech | Status |
 |:--------|:------------|:-----|:-------|
-|**[ShamirSecurity](https://github.com/Parik-2006/shamirsecurity)** | Threshold cryptography system implementing Shamir's Secret Sharing, finite-field arithmetic and Lagrange interpolation for secure secret reconstruction. | JavaScript, Node.js, Express, React | 🚀 Live |
-|**[OS-EL-3-SEM](https://github.com/Parik-2006/OS-EL-3-SEM)** | Weighted Dynamic Scoring CPU scheduling engine designed to balance efficiency, fairness and priority while reducing starvation. | Python, Flask, JavaScript, Chart.js | 🚀 Engineering Lab |
-|**[DSA-EL-](https://github.com/Parik-2006/DSA-EL-)** | MaliciousBot — a machine-learning URL detection system that classifies URLs as benign, defacement, phishing or malware using feature extraction and Random Forest. | Python, Django, Scikit-learn, Pandas, NumPy | 🚀 Engineering Lab |
+|**[ShamirSecurity](https://github.com/Parik-2006/shamirsecurity)** | Threshold cryptography system implementing Shamir's Secret Sharing, finite-field arithmetic and Lagrange interpolation for secure secret reconstruction. | JavaScript, Node.js, Express, React | 🌐 Live |
+|**[OS-EL-3-SEM](https://github.com/Parik-2006/OS-EL-3-SEM)** | Weighted Dynamic Scoring CPU scheduling engine designed to balance efficiency, fairness and priority while reducing starvation. | Python, Flask, JavaScript, Chart.js | 🌐 Live |
+|**[DSA-EL-](https://github.com/Parik-2006/DSA-EL-)** | MaliciousBot — a machine-learning URL detection system that classifies URLs as benign, defacement, phishing or malware using feature extraction and Random Forest. | Python, Django, Scikit-learn, Pandas, NumPy | 🌐 Live |
 |**[NEXUSFLOW-](https://github.com/Parik-2006/NEXUSFLOW-)** | AI-powered project management platform combining DAA algorithms for task prioritization, sprint optimization, dependency ordering and intelligent team assignment. | React Native, TypeScript, Node.js, Express, MongoDB, Gemini AI | 🌐 Live |
 |**[diploma-project](https://github.com/Parik-2006/diploma-project)** | Diploma-level machine-learning security project for detecting malicious URLs and generating classification confidence and prediction history. | Python, Django, Scikit-learn | ✅ Complete |
 |**[GUARDIAN-OTA](https://github.com/Parik-2006/GUARDIAN-OTA)** | Secure Software-Defined Vehicle OTA platform with hardware-level cryptographic verification, safety gates, rollback protection and live 3D fleet monitoring. | C, ESP-IDF, FreeRTOS, mbedTLS, Next.js, Three.js, Go, MQTT | 🚧 Building |
-|**[BIOSAFETY_EL](https://github.com/Parik-2006/BIOSAFETY_EL)** | Smart UV-C sterilization safety system using human detection, door interlocks, automatic locking, controlled UV activation and emergency shutdown. | Arduino, C/C++, PIR, Servo, Relay, UV-C | 🔬 Engineering Lab |
+|**[BIOSAFETY_EL](https://github.com/Parik-2006/BIOSAFETY_EL)** | Smart UV-C sterilization safety system using human detection, door interlocks, automatic locking, controlled UV activation and emergency shutdown. | Arduino, C/C++, PIR, Servo, Relay, UV-C | Engineering Lab |
 
 ---
 
